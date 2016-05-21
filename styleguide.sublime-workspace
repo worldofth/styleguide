@@ -1,0 +1,557 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"compo",
+				"components/"
+			],
+			[
+				"target",
+				"target"
+			],
+			[
+				"addEvent",
+				"addEventListener"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"ta",
+				"targetBCR"
+			],
+			[
+				"selec",
+				"selector"
+			],
+			[
+				"less",
+				"lessStream"
+			],
+			[
+				"watch",
+				"watchLess"
+			],
+			[
+				"bundle",
+				"bundler"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"grunt",
+				"gruntConfig"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"data",
+				"dataLayer"
+			],
+			[
+				"location",
+				"locationProvider"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"booking",
+				"bookingobj"
+			],
+			[
+				"SIA",
+				"SiaObjs"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/H/website/styleguide",
+		"/H/website/styleguide/styleguide",
+		"/H/website/styleguide/styleguide/server"
+	],
+	"file_history":
+	[
+		"/H/website/styleguide/styleguide/server/util.js",
+		"/H/website/styleguide/styleguide/package.json",
+		"/H/website/styleguide/styleguide/server/index.js",
+		"/H/website/styleguide/index.js",
+		"/H/website/styleguide/app.js",
+		"/H/website/styleguide/components/home.json",
+		"/H/website/styleguide/client/test.html",
+		"/H/website/styleguide/components/lvl1/lvl2/lvl3/deeppartial.html",
+		"/H/website/styleguide/components/testpartial.html",
+		"/H/website/styleguide/components/home.html",
+		"/H/website/styleguide/client/main.html",
+		"/H/website/styleguide/sg.js",
+		"/H/website/styleguide/eslint.json",
+		"/H/website/tomhopkinscouk/resources/js/src/slider.js",
+		"/H/website/tomhopkinscouk/resources/css/modules/slider/slider.less",
+		"/H/website/tomhopkinscouk/resources/js/src/index.js",
+		"/H/website/tomhopkinscouk/components/slider-test/slider.html",
+		"/H/website/tomhopkinscouk/gulpfile.js",
+		"/H/website/tomhopkinscouk/index.js",
+		"/C/Users/Tom/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/H/website/tomhopkinscouk/.eslintrc",
+		"/H/website/tomhopkinscouk/eslint.json",
+		"/H/website/tomhopkinscouk/package.json",
+		"/H/website/tomhopkinscouk/resources/js/src/import.js",
+		"/H/website/tomhopkinscouk/gruntfile.js",
+		"/H/website/tomhopkinscouk/tomhopkinscouk.sublime-project",
+		"/H/website/tomhopkinscouk/resources/js/style-guide/sg-svg.js",
+		"/H/website/tomhopkinscouk/components/test/test.html",
+		"/H/website/tomhopkinscouk/resources/css/main.less",
+		"/H/website/tomhopkinscouk/resources/js/dist/index.js",
+		"/H/website/tomhopkinscouk/resources/js/dist/index.js.map",
+		"/H/website/tomhopkinscouk/resources/css/utility/ratios.less",
+		"/H/downloads/_ Luscious Hentai and Erotica_files/base-b2b130a401a6bd77f5185c014b733aa7c7f46a74.js",
+		"/C/Users/Tom/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/H/website/tomhopkinscouk/resources/js/vendor/jquery/dist/jquery.slim.js",
+		"/H/website/tomhopkinscouk/resources/js/vendor/jquery/src/selector-sizzle.js",
+		"/H/website/tomhopkinscouk/resources/js/vendor/jquery/src/selector-native.js",
+		"/H/website/tomhopkinscouk/index.html",
+		"/H/website/tomhopkinscouk/component-styleguide/client/styleguide.js",
+		"/H/website/tomhopkinscouk/resources/css/main.css",
+		"/H/website/tomhopkinscouk/resources/css/main.css.map",
+		"/H/website/tomhopkinscouk/resources/css/elements/type.less",
+		"/H/website/tomhopkinscouk/resources/css/base/fontfaces.less",
+		"/H/website/tomhopkinscouk/resources/css/base/variables/typevars.less",
+		"/H/website/tomhopkinscouk/resources/js/src/testmod.js",
+		"/H/website/tomhopkinscouk/components/z-elements/06-lists.html",
+		"/H/website/tomhopkinscouk/components/z-elements/05-forms.html",
+		"/H/website/tomhopkinscouk/components/test/header.html",
+		"/H/website/tomhopkinscouk/components/z-elements/01-colors.html",
+		"/H/website/tomhopkinscouk/components/test/header.json",
+		"/H/website/tomhopkinscouk/resources/css/styleguide/base.less",
+		"/H/website/tomhopkinscouk/resources/css/base/variables/colour.less",
+		"/H/website/tomhopkinscouk/resources/css/elements/lists.less",
+		"/H/work/perigord/components/property-components/results-item.html",
+		"/H/work/perigord/resources/css/base/variables/colour.less",
+		"/H/work/perigord/resources/css/modules/property/results.less",
+		"/H/work/perigord/resources/css/main.less",
+		"/H/work/perigord/resources/css/elements/type.less",
+		"/H/work/perigord/resources/css/modules/property/featured-property.less",
+		"/H/work/perigord/components/property-components/featured-property.html",
+		"/H/work/perigord/components/property-components/featured-property-list.html",
+		"/H/work/perigord/components/property-elements/property-image.html",
+		"/H/work/perigord assets/perigord assets (pngs fonts and test html)/perigord fonts/perigord-font/stylesheet.css",
+		"/H/work/perigord/resources/css/base/fontfaces.less",
+		"/H/work/perigord/resources/css/base/variables/typevars.less",
+		"/H/work/perigord/index.js",
+		"/H/work/perigord/component-styleguide/client/styleguide.js",
+		"/H/work/perigord/index.html",
+		"/H/work/perigord/resources/js/src/index.js",
+		"/H/work/perigord/gruntfile.js",
+		"/H/work/perigord/package.json",
+		"/H/work/perigord/resources/js/dist/index.js",
+		"/H/work/perigord/resources/js/src/main.js",
+		"/C/Users/Tom/Desktop/babel-test/gruntfile.js",
+		"/C/Users/Tom/Desktop/babel-test/index.html",
+		"/C/Users/Tom/Desktop/babel-test/package.json",
+		"/C/Users/Tom/Desktop/babel-test/eslint.json",
+		"/C/Users/Tom/Desktop/babel-test/src/index.js",
+		"/C/Users/Tom/Desktop/babel-test/src/import.js",
+		"/C/Users/Tom/Desktop/babel-test/src/secondImport.js",
+		"/H/work/reade/components/staff/staff.html",
+		"/H/work/reade/components/pages/secondary.html",
+		"/H/work/reade/components/general-components/footer.html",
+		"/H/work/reade/components/pages/staff.html",
+		"/H/work/reade/resources/css/modules/staff/staff.less",
+		"/H/work/reade/resources/css/main.less",
+		"/H/work/reade/components/general-components/header.html",
+		"/H/work/reade/resources/css/modules/footer.less",
+		"/H/work/reade/components/gallery/gallery.html",
+		"/H/work/reade/resources/css/modules/gallery/main.less",
+		"/H/work/reade/resources/css/vendor/slick.less",
+		"/H/work/reade/resources/js/rdslick.js",
+		"/H/work/reade/resources/js/main.js",
+		"/H/work/reade/resources/css/modules/case-studies/pagination.less",
+		"/H/work/reade/components/case-study-components/slider.html",
+		"/H/work/reade/resources/slides/slides/slide2.html",
+		"/H/work/reade/resources/slides/slides/slide3.html",
+		"/H/work/reade/resources/slides/slides/slide4.html",
+		"/H/work/reade/components/util/svg-sprite.html",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/arrows-32px-outline-1_minimal-down.svg",
+		"/H/work/reade/components/util/svg-show.html",
+		"/C/Users/Tom/Desktop/myicons.svg",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/ui-48px-outline-2_menu-34.svg",
+		"/H/downloads/ui-48px-outline-1_zoom-split-in.svg",
+		"/H/downloads/social-48px-glyph-2_round-linkedin.svg",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/ui-48px-outline-1_zoom.svg",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/ui-32px-outline-1_send.svg",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/social-24px-glyph-2_round-twitter.svg",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/ui-24px-glyph-1_edit-76.svg",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/social-24px-glyph-2_round-facebook-2.svg",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/social-24px-glyph-2_round-facebook.svg",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/arrows-32px-outline-2_hit-up.svg",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/arrows-32px-outline-1_minimal-up.svg",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/arrows-32px-outline-1_minimal-right.svg",
+		"/H/work/reade assets/NEW READE ASSETS/NEW VISUAL GRAPHICS/SVG/arrows-32px-outline-1_minimal-left.svg",
+		"/H/work/reade/index.js",
+		"/H/work/reade/component-styleguide/client/styleguide.js",
+		"/H/programming/github/functionaltesting/resources/js/main.js",
+		"/H/Games/Steam/steamapps/common/Rocksmith2014/Rocksmith.ini",
+		"/H/programming/github/functionaltesting/gruntfile.js",
+		"/H/programming/github/functionaltesting/package.json",
+		"/H/programming/github/functionaltesting/resources/js/vendor/underscore.js",
+		"/H/programming/github/functionaltesting/resources/js/vendor/lodash.js",
+		"/H/programming/github/functionaltesting/node_modules/lodash/function/curry.js",
+		"/H/programming/github/functionaltesting/node_modules/lodash/internal/createCurry.js",
+		"/H/programming/github/functionaltesting/node_modules/lodash/internal/createWrapper.js",
+		"/H/programming/github/functionaltesting/resources/data/test.json",
+		"/H/programming/github/functionaltesting/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"C:\\Users\\Tom\\Desktop\\concrete5.7.1\\concrete\\src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ehbs",
+			"ext",
+			"handlebars",
+			"]",
+			"}",
+			",",
+			"{",
+			"dirCwd",
+			"]",
+			"}",
+			",",
+			"{",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"]",
+			"}",
+			",",
+			"{",
+			"){\n",
+			"if",
+			"}",
+			"[",
+			"{",
+			",",
+			"addEventListener",
+			"requestAnimationFrame",
+			"grunt",
+			"grunt.task('build', ['browserify', 'less']);\ngrunt",
+			"makeArray",
+			"jQuery.makeArray",
+			"jQuery.fn.init",
+			"jQuery",
+			"grey-dark",
+			"header",
+			"x=\"0\" y=\"0\" width=\"100%\" height=\"100%\"",
+			"335",
+			"450",
+			"transform=\"translate(-50%, -50%)\"",
+			"trasnlate",
+			"<image x=\"0\" y=\"0\" width=\"100%\" height=\"100%\"",
+			"tmp/",
+			"tmp/tmp-gal-",
+			"tmp/tmp-gal-2",
+			"<div class=\"gallery-item-meta\">\n					<span class=\"gallery-item-meta-title\">american express reception</span>\n					<p>Fringilla Ultricies Sit</p>\n				</div>",
+			"tmp/tmp-slide",
+			"tmp/tmp-slide4",
+			"tmp/tmp-slide2",
+			"tmp/tmp-slide1",
+			"tmp/tmp-slide4",
+			"tmp/tmp-slide3",
+			"tmp/tmp-slide",
+			"tmp/tmp-slide4",
+			"tmp/tmp-slide3",
+			"tmp/tmp-slide2",
+			"tmp/tmp-slide1",
+			"tmp/tmp-slide",
+			"tmp/tmp-slide4",
+			"tmp/tmp-slide3",
+			"tmp/tmp-slide2",
+			"tmp/tmp-slide1",
+			" fill=\"#444444\" ",
+			" transform=\"translate(0, 0)\"",
+			" stroke-linejoin=\"round\"",
+			"stroke-linecap=\"round\" stroke-miterlimit=\"10\"",
+			"fill=\"none\"",
+			"transform=\"translate(0.5, 0.5)\"",
+			"stroke=\"#444444\" stroke-width=\"1\" ",
+			" stroke-linejoin=\"round\"",
+			"fill=\"none\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" ",
+			"stroke=\"#444444\" ",
+			"data-color=\"color-2\" ",
+			"stroke=\"#444444\" stroke-width=\"1\"",
+			"ASQ",
+			"asquence",
+			"-",
+			"ifyouacheiveyourdreamitwasneveradream",
+			"8000",
+			"liveReload",
+			"3000",
+			"8000",
+			"true",
+			"render",
+			"rangeElement",
+			"function install",
+			"calculated",
+			"phases",
+			"development",
+			"enum",
+			"inputEntity",
+			"buyerEntity",
+			"MenuController",
+			"vm.clearForm",
+			"$scope",
+			"address",
+			"devID",
+			"calculated",
+			"phases",
+			"development",
+			"Buyer",
+			"dev",
+			"devName",
+			"content",
+			"developmentController",
+			"namespace Doctrine\\ORM",
+			"{",
+			"@",
+			"name/scope",
+			"@type",
+			"%;\n",
+			"htmllink",
+			",",
+			"{",
+			"}",
+			";"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "styleguide.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
